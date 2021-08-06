@@ -10,7 +10,7 @@ def help(update, context):
 __handlers__ = [
     [
         CommandHandler(
-            "help",
+            "start",
             help
         )
     ]
